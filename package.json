@@ -1,0 +1,28 @@
+{
+  "name": "@mindaugaskasp/node-osu",
+  "version": "1.0.0",
+  "description": "Osu! api integration package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindaugaskasp/node-osu.git"
+  },
+  "keywords": [
+    "node-osu",
+    "osu-api",
+    "osu"
+  ],
+  "author": "Mindaugas Kasparavičius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mindaugaskasp/node-osu/issues"
+  },
+  "homepage": "https://github.com/mindaugaskasp/node-osu#readme",
+  "dependencies": {
+    "promised-io": "^0.3.5",
+    "superagent": "^4.1.0"
+  }
+}
